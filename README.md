@@ -1,2 +1,2 @@
-# portfolio
-Here is my writing samples
+# Nick Li's Writing Portfolio
+Here are my writing samples
